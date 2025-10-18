@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 79677eb8c609e2248bcdbbb478d87724
+guid: b6eb984c2602911498652ea6753a9ee7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7597607690905914791
-    second: Unity_feed_0
+      213: -2413806693520163455
+    second: Circle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Unity_feed_0
+      name: Circle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1000
-        height: 1000
+        x: 6
+        y: 5
+        width: 289
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 952f6c81f00ef8690800000000000000
-      internalID: -7597607690905914791
+      spriteID: 18d3544e99f608ed0800000000000000
+      internalID: -2413806693520163455
       vertices: []
       indices: 
       edges: []
@@ -130,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Unity_feed_0: -7597607690905914791
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
